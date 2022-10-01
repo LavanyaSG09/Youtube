@@ -1,6 +1,7 @@
 Hello Everyone
 Finally Done with YouTube cloning
-you can view My work through
+
+You can view My work through
 
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" width=50px height=40px></a>
 
